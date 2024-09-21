@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explore The World</title>
+    <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+    <header id="header">
+    <h1>Welcome to an Adventure Wonderla</h1>
+    <img src="imgmain.jpeg" alt="">
+    </header>
+     
+    <p>Adventure World is a thrilling theme park that offers a wide range of exciting attractions for all ages. From heart-pounding roller coasters to family-friendly rides, there's something for everyone to enjoy. Explore lush gardens, encounter exotic animals, and immerse yourself in a world of fantasy and fun. With live shows, delicious food, and unforgettable experiences, Adventure World is the perfect destination for creating lasting memories.</p>
+
+    <a href=https://www.youtube.com/watch?v=KAfpW9MkyPo>Click here to Explore the Adventure Park</a>
+    
+    <h2>Explore the Excitements</h2>
+    <div class="image-container">
+        <img src="activity1.jpeg" alt="">
+        <img src="activity2.jpeg" alt="">
+        <img src="activity3.jpeg" alt="">
+    </div>
+    
+</body>
+</html>
